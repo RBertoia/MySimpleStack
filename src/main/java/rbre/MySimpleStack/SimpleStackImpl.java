@@ -1,10 +1,12 @@
 package rbre.MySimpleStack;
 
 import java.util.EmptyStackException;
+import java.util.Enumeration;
 import java.util.Stack;
 
 /**
  * Created by brr0530a on 26/10/2017.
+ * un commentaire répondant à l'exigence #3
  */
 public class SimpleStackImpl implements SimpleStack{
 
